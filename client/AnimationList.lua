@@ -3037,6 +3037,14 @@ DP.PropEmotes = {
         EmoteLoop = true,
         EmoteMoving = true,
     } },
+   ["phone"] = {"cellphone@", "cellphone_text_read_base", "Phone", AnimationOptions =
+   {
+       Prop = "prop_npc_phone_02",
+       PropBone = 28422,
+       PropPlacement = {0.0, 0.0, 0.0, 0.0, 0.0, 0.0},
+       EmoteLoop = true,
+       EmoteMoving = true,
+   } },
     ["wt"]              = { "cellphone@", "cellphone_text_read_base", "Walkie Talkie", AnimationOptions = {
         Prop = "prop_cs_hand_radio",
         PropBone = 28422,
